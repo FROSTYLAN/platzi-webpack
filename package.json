@@ -1,27 +1,24 @@
 {
-  "name": "webpack",
+  "name": "js-portfolio",
   "version": "1.0.0",
-  "description": "# ¿Qué es Webpack?",
+  "description": "A minimal portfolio with Vanilla JavaScript",
   "main": "index.js",
-  "directories": {
-    "doc": "doc"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FROSTYLAN/platzi-webpack.git"
+    "url": "git+https://github.com/gndx/js-portfolio.git"
   },
-  "keywords": [],
-  "author": "Frosty <castillo089frosty@gmail.com>",
+  "keywords": [
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "oscar barajas <oscar@gndx.dev>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FROSTYLAN/platzi-webpack/issues"
+    "url": "https://github.com/gndx/js-portfolio/issues"
   },
-  "homepage": "https://github.com/FROSTYLAN/platzi-webpack#readme",
-  "devDependencies": {
-    "webpack": "^5.73.0",
-    "webpack-cli": "^4.10.0"
-  }
+  "homepage": "https://github.com/gndx/js-portfolio#readme"
 }
